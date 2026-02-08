@@ -1,0 +1,1 @@
+-- Find Spring 2003 course sections with the top three maximum count numbers.
