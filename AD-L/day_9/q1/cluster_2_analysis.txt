@@ -1,0 +1,4 @@
+Cluster 2 Analysis:
+Average Income: 25.727272727272727
+Average Spending Score: 79.36363636363636
+-> Low Income, High Spending (Impulsive Buyers)

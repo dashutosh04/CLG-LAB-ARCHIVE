@@ -1,0 +1,9 @@
+Confusion Matrix:
+rows: actual, columns: predicted
+                          Fail  Pass
+Fail               1           0
+Pass               0           0
+
+Manual precision, recall, F1-score calculation:
+Fail: Precision: 1.0000, Recall: 0.5000, F1-score: 0.6667
+Pass: Precision: 0.0000, Recall: 0.0000, F1-score: 0.0000

@@ -1,0 +1,4 @@
+Cluster 1 Analysis:
+Average Income: 86.53846153846153
+Average Spending Score: 82.12820512820512
+-> High Income, High Spending (Premium Customers)

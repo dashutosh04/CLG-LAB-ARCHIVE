@@ -1,0 +1,20 @@
+Random Forest Classifier Results
+Parameters: n_estimators=100, max_depth=4
+
+Overall Accuracy: 0.79
+
+Confusion Matrix:
+Predicted    0    1
+Actual             
+0          971   64
+1          233  141
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.81      0.94      0.87      1035
+           1       0.69      0.38      0.49       374
+
+    accuracy                           0.79      1409
+   macro avg       0.75      0.66      0.68      1409
+weighted avg       0.77      0.79      0.77      1409

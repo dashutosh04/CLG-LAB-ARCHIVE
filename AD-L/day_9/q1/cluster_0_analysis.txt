@@ -1,0 +1,4 @@
+Cluster 0 Analysis:
+Average Income: 55.2962962962963
+Average Spending Score: 49.51851851851852
+-> Medium Income & Medium Spending (Average Customers)

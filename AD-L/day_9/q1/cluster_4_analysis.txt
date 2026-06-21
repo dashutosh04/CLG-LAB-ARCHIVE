@@ -1,0 +1,4 @@
+Cluster 4 Analysis:
+Average Income: 26.304347826086957
+Average Spending Score: 20.91304347826087
+-> Low Income, Low Spending (Budget Customers)

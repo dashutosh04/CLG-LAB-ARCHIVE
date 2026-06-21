@@ -1,0 +1,16 @@
+Best Parameters: {'svm__C': 0.1}
+Test Accuracy: 0.8119
+
+Confusion Matrix:
+[[922 178]
+ [221 800]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.81      0.84      0.82      1100
+           1       0.82      0.78      0.80      1021
+
+    accuracy                           0.81      2121
+   macro avg       0.81      0.81      0.81      2121
+weighted avg       0.81      0.81      0.81      2121

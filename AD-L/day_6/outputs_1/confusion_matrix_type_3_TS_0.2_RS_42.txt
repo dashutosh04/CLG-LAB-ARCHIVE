@@ -1,0 +1,9 @@
+Confusion Matrix:
+rows: actual, columns: predicted
+                          Setosa  Versicolor  Virginica
+setosa            12           0          0
+versicolor         0           9          0
+virginica          0           2          7
+
+Manual precision, recall, F1-score calculation:
+virginica: Precision: 1.0000, Recall: 0.7778, F1-score: 0.8750

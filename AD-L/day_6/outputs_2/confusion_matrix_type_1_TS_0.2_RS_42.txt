@@ -1,0 +1,8 @@
+Confusion Matrix:
+rows: actual, columns: predicted
+                          Not Spam  Spam
+Not Spam         534          24
+Spam              83         280
+
+Manual precision, recall, F1-score calculation:
+Spam: Precision: 0.9211, Recall: 0.7713, F1-score: 0.8396
